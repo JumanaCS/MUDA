@@ -6,8 +6,8 @@ MUDA - Instagram Web Application Copy
 - Languages:  Python, JavaScript, CSS, HTML
 
 # Team Members:
-Jumana Suleiman
-Steven Guan
-Marco Alexander
-Eric Humphries
-David Bartholomew 
+- Jumana Suleiman
+- Steven Guan
+- Marco Alexander
+- Eric Humphries
+- David Bartholomew 
