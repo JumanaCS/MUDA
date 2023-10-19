@@ -2,7 +2,7 @@
 MUDA - Instagram Web Application Copy
 
 - Made in Intro to Software Engineering Course.
-- Tools Used: React, Trello, Agile Workflow, SCRUM Workflow
+- Tools Used: React, Trello, Agile Workflow, SCRUM Workflow, Docker
 - Languages:  Python, JavaScript, CSS, HTML
 
 # Team Members:
